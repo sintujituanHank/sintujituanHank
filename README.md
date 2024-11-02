@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @sintujituanHank
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-sintujituanHank/sintujituanHank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>空白網站</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>我的網站</h1>
+    </header>
+    <main>
+        <!-- 這裡是主要內容區域 -->
+    </main>
+    <footer>
+        <p>© 2024 我的網站</p>
+    </footer>
+</body>
+</html>
